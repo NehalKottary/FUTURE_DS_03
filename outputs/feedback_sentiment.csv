@@ -1,0 +1,301 @@
+student_id,age,gender,year_of_study,event_name,rating,feedback_text,feedback_clean,tb_polarity,vader_compound,sentiment,polarity,subjectivity,Sentiment
+S1000,23,Male,3rd Year,Workshop,3,"Loved the performances, very entertaining.",loved the performances very entertaining,0.675,0.796,Positive,0.675,0.855,Positive
+S1001,18,Female,4th Year,Tech Fest,1,"Not worth the time, very boring.",not worth the time very boring,-0.575,-0.5038,Negative,-0.575,0.55,Negative
+S1002,18,Other,4th Year,Cultural Night,4,"Not worth the time, very boring.",not worth the time very boring,-0.575,-0.5038,Negative,-0.575,0.55,Negative
+S1003,23,Male,4th Year,Sports Day,1,Great organization and fun activities!,great organization and fun activities,0.55,0.8126,Positive,0.5875,0.475,Positive
+S1004,20,Male,2nd Year,Seminar,2,"It was okay, could have been better.",it was okay could have been better,0.5,0.5859,Positive,0.5,0.5,Positive
+S1005,19,Other,4th Year,Cultural Night,2,"Too crowded, difficult to enjoy.",too crowded difficult to enjoy,-0.04999999999999999,0.1779,Positive,-0.04999999999999999,0.75,Neutral
+S1006,19,Other,2nd Year,Workshop,4,"Amazing event, really enjoyed it!",amazing event really enjoyed it,0.55,0.8122,Positive,0.6125,0.8,Positive
+S1007,19,Male,1st Year,Tech Fest,5,"Too crowded, difficult to enjoy.",too crowded difficult to enjoy,-0.04999999999999999,0.1779,Positive,-0.04999999999999999,0.75,Neutral
+S1008,23,Male,3rd Year,Seminar,3,"Amazing event, really enjoyed it!",amazing event really enjoyed it,0.55,0.8122,Positive,0.6125,0.8,Positive
+S1009,18,Male,3rd Year,Cultural Night,1,"Informative and useful, I learned a lot.",informative and useful i learned a lot,0.3,0.4404,Positive,0.3,0.0,Positive
+S1010,23,Male,1st Year,Cultural Night,4,"It was okay, could have been better.",it was okay could have been better,0.5,0.5859,Positive,0.5,0.5,Positive
+S1011,23,Female,2nd Year,Sports Day,1,Great organization and fun activities!,great organization and fun activities,0.55,0.8126,Positive,0.5875,0.475,Positive
+S1012,22,Female,3rd Year,Cultural Night,3,"Excellent event, hope to see more like this!",excellent event hope to see more like this,0.75,0.8553,Positive,0.8125,0.75,Positive
+S1013,18,Female,2nd Year,Tech Fest,5,"Too crowded, difficult to enjoy.",too crowded difficult to enjoy,-0.04999999999999999,0.1779,Positive,-0.04999999999999999,0.75,Neutral
+S1014,22,Male,2nd Year,Tech Fest,1,"Excellent event, hope to see more like this!",excellent event hope to see more like this,0.75,0.8553,Positive,0.8125,0.75,Positive
+S1015,21,Female,2nd Year,Cultural Night,4,"Too crowded, difficult to enjoy.",too crowded difficult to enjoy,-0.04999999999999999,0.1779,Positive,-0.04999999999999999,0.75,Neutral
+S1016,18,Male,1st Year,Sports Day,3,"Too crowded, difficult to enjoy.",too crowded difficult to enjoy,-0.04999999999999999,0.1779,Positive,-0.04999999999999999,0.75,Neutral
+S1017,18,Male,1st Year,Seminar,3,The event was poorly managed.,the event was poorly managed,-0.4,0.0,Neutral,-0.4,0.6,Negative
+S1018,18,Female,2nd Year,Seminar,5,"It was okay, could have been better.",it was okay could have been better,0.5,0.5859,Positive,0.5,0.5,Positive
+S1019,19,Male,4th Year,Sports Day,4,"Too crowded, difficult to enjoy.",too crowded difficult to enjoy,-0.04999999999999999,0.1779,Positive,-0.04999999999999999,0.75,Neutral
+S1020,19,Female,1st Year,Workshop,3,"Amazing event, really enjoyed it!",amazing event really enjoyed it,0.55,0.8122,Positive,0.6125,0.8,Positive
+S1021,22,Female,4th Year,Tech Fest,1,Great organization and fun activities!,great organization and fun activities,0.55,0.8126,Positive,0.5875,0.475,Positive
+S1022,22,Female,4th Year,Workshop,2,"The food was not good, needs improvement.",the food was not good needs improvement,-0.35,-0.5975,Negative,-0.35,0.6000000000000001,Negative
+S1023,18,Female,2nd Year,Sports Day,4,"Excellent event, hope to see more like this!",excellent event hope to see more like this,0.75,0.8553,Positive,0.8125,0.75,Positive
+S1024,22,Female,4th Year,Workshop,1,"Informative and useful, I learned a lot.",informative and useful i learned a lot,0.3,0.4404,Positive,0.3,0.0,Positive
+S1025,19,Other,4th Year,Sports Day,5,Great organization and fun activities!,great organization and fun activities,0.55,0.8126,Positive,0.5875,0.475,Positive
+S1026,23,Other,4th Year,Seminar,5,"It was okay, could have been better.",it was okay could have been better,0.5,0.5859,Positive,0.5,0.5,Positive
+S1027,23,Other,2nd Year,Seminar,3,"Too crowded, difficult to enjoy.",too crowded difficult to enjoy,-0.04999999999999999,0.1779,Positive,-0.04999999999999999,0.75,Neutral
+S1028,23,Other,2nd Year,Workshop,5,"It was okay, could have been better.",it was okay could have been better,0.5,0.5859,Positive,0.5,0.5,Positive
+S1029,22,Other,1st Year,Workshop,2,"Loved the performances, very entertaining.",loved the performances very entertaining,0.675,0.796,Positive,0.675,0.855,Positive
+S1030,21,Female,1st Year,Tech Fest,1,"Too crowded, difficult to enjoy.",too crowded difficult to enjoy,-0.04999999999999999,0.1779,Positive,-0.04999999999999999,0.75,Neutral
+S1031,19,Male,4th Year,Seminar,4,"Excellent event, hope to see more like this!",excellent event hope to see more like this,0.75,0.8553,Positive,0.8125,0.75,Positive
+S1032,21,Male,2nd Year,Tech Fest,3,"Too crowded, difficult to enjoy.",too crowded difficult to enjoy,-0.04999999999999999,0.1779,Positive,-0.04999999999999999,0.75,Neutral
+S1033,22,Female,2nd Year,Workshop,4,"Not worth the time, very boring.",not worth the time very boring,-0.575,-0.5038,Negative,-0.575,0.55,Negative
+S1034,20,Male,4th Year,Sports Day,1,"It was okay, could have been better.",it was okay could have been better,0.5,0.5859,Positive,0.5,0.5,Positive
+S1035,18,Male,1st Year,Seminar,2,"Too crowded, difficult to enjoy.",too crowded difficult to enjoy,-0.04999999999999999,0.1779,Positive,-0.04999999999999999,0.75,Neutral
+S1036,19,Other,2nd Year,Sports Day,1,The event was poorly managed.,the event was poorly managed,-0.4,0.0,Neutral,-0.4,0.6,Negative
+S1037,23,Other,1st Year,Tech Fest,1,Great organization and fun activities!,great organization and fun activities,0.55,0.8126,Positive,0.5875,0.475,Positive
+S1038,21,Other,4th Year,Tech Fest,3,"Loved the performances, very entertaining.",loved the performances very entertaining,0.675,0.796,Positive,0.675,0.855,Positive
+S1039,20,Male,2nd Year,Cultural Night,4,Great organization and fun activities!,great organization and fun activities,0.55,0.8126,Positive,0.5875,0.475,Positive
+S1040,20,Other,4th Year,Seminar,1,"The food was not good, needs improvement.",the food was not good needs improvement,-0.35,-0.5975,Negative,-0.35,0.6000000000000001,Negative
+S1041,19,Female,3rd Year,Seminar,1,"It was okay, could have been better.",it was okay could have been better,0.5,0.5859,Positive,0.5,0.5,Positive
+S1042,19,Male,4th Year,Tech Fest,2,"Not worth the time, very boring.",not worth the time very boring,-0.575,-0.5038,Negative,-0.575,0.55,Negative
+S1043,20,Male,4th Year,Sports Day,5,"It was okay, could have been better.",it was okay could have been better,0.5,0.5859,Positive,0.5,0.5,Positive
+S1044,18,Other,4th Year,Seminar,2,"Not worth the time, very boring.",not worth the time very boring,-0.575,-0.5038,Negative,-0.575,0.55,Negative
+S1045,18,Female,2nd Year,Tech Fest,4,"Not worth the time, very boring.",not worth the time very boring,-0.575,-0.5038,Negative,-0.575,0.55,Negative
+S1046,21,Other,4th Year,Cultural Night,4,"Loved the performances, very entertaining.",loved the performances very entertaining,0.675,0.796,Positive,0.675,0.855,Positive
+S1047,18,Other,4th Year,Workshop,3,Great organization and fun activities!,great organization and fun activities,0.55,0.8126,Positive,0.5875,0.475,Positive
+S1048,20,Male,3rd Year,Seminar,5,Great organization and fun activities!,great organization and fun activities,0.55,0.8126,Positive,0.5875,0.475,Positive
+S1049,20,Male,2nd Year,Workshop,4,"The food was not good, needs improvement.",the food was not good needs improvement,-0.35,-0.5975,Negative,-0.35,0.6000000000000001,Negative
+S1050,22,Other,3rd Year,Sports Day,5,"Loved the performances, very entertaining.",loved the performances very entertaining,0.675,0.796,Positive,0.675,0.855,Positive
+S1051,20,Male,4th Year,Cultural Night,2,"It was okay, could have been better.",it was okay could have been better,0.5,0.5859,Positive,0.5,0.5,Positive
+S1052,18,Male,2nd Year,Seminar,4,"The food was not good, needs improvement.",the food was not good needs improvement,-0.35,-0.5975,Negative,-0.35,0.6000000000000001,Negative
+S1053,23,Male,3rd Year,Workshop,1,The event was poorly managed.,the event was poorly managed,-0.4,0.0,Neutral,-0.4,0.6,Negative
+S1054,21,Other,4th Year,Workshop,4,"Loved the performances, very entertaining.",loved the performances very entertaining,0.675,0.796,Positive,0.675,0.855,Positive
+S1055,22,Male,1st Year,Tech Fest,5,"The food was not good, needs improvement.",the food was not good needs improvement,-0.35,-0.5975,Negative,-0.35,0.6000000000000001,Negative
+S1056,18,Other,3rd Year,Workshop,4,"Excellent event, hope to see more like this!",excellent event hope to see more like this,0.75,0.8553,Positive,0.8125,0.75,Positive
+S1057,21,Male,2nd Year,Sports Day,3,"The food was not good, needs improvement.",the food was not good needs improvement,-0.35,-0.5975,Negative,-0.35,0.6000000000000001,Negative
+S1058,18,Female,3rd Year,Workshop,1,"It was okay, could have been better.",it was okay could have been better,0.5,0.5859,Positive,0.5,0.5,Positive
+S1059,22,Male,3rd Year,Sports Day,3,"The food was not good, needs improvement.",the food was not good needs improvement,-0.35,-0.5975,Negative,-0.35,0.6000000000000001,Negative
+S1060,20,Other,3rd Year,Sports Day,2,"Informative and useful, I learned a lot.",informative and useful i learned a lot,0.3,0.4404,Positive,0.3,0.0,Positive
+S1061,23,Male,1st Year,Tech Fest,4,"Informative and useful, I learned a lot.",informative and useful i learned a lot,0.3,0.4404,Positive,0.3,0.0,Positive
+S1062,22,Other,2nd Year,Cultural Night,4,"Excellent event, hope to see more like this!",excellent event hope to see more like this,0.75,0.8553,Positive,0.8125,0.75,Positive
+S1063,20,Other,2nd Year,Sports Day,2,"Excellent event, hope to see more like this!",excellent event hope to see more like this,0.75,0.8553,Positive,0.8125,0.75,Positive
+S1064,22,Male,2nd Year,Workshop,3,"Informative and useful, I learned a lot.",informative and useful i learned a lot,0.3,0.4404,Positive,0.3,0.0,Positive
+S1065,19,Other,4th Year,Workshop,1,"Excellent event, hope to see more like this!",excellent event hope to see more like this,0.75,0.8553,Positive,0.8125,0.75,Positive
+S1066,23,Male,2nd Year,Sports Day,3,"Excellent event, hope to see more like this!",excellent event hope to see more like this,0.75,0.8553,Positive,0.8125,0.75,Positive
+S1067,18,Female,2nd Year,Workshop,5,Great organization and fun activities!,great organization and fun activities,0.55,0.8126,Positive,0.5875,0.475,Positive
+S1068,18,Other,1st Year,Seminar,3,Great organization and fun activities!,great organization and fun activities,0.55,0.8126,Positive,0.5875,0.475,Positive
+S1069,23,Other,4th Year,Tech Fest,1,"The food was not good, needs improvement.",the food was not good needs improvement,-0.35,-0.5975,Negative,-0.35,0.6000000000000001,Negative
+S1070,19,Other,4th Year,Workshop,4,"Informative and useful, I learned a lot.",informative and useful i learned a lot,0.3,0.4404,Positive,0.3,0.0,Positive
+S1071,20,Other,3rd Year,Tech Fest,3,"It was okay, could have been better.",it was okay could have been better,0.5,0.5859,Positive,0.5,0.5,Positive
+S1072,18,Female,4th Year,Sports Day,2,"Informative and useful, I learned a lot.",informative and useful i learned a lot,0.3,0.4404,Positive,0.3,0.0,Positive
+S1073,19,Female,4th Year,Sports Day,1,"Informative and useful, I learned a lot.",informative and useful i learned a lot,0.3,0.4404,Positive,0.3,0.0,Positive
+S1074,18,Male,1st Year,Sports Day,4,The event was poorly managed.,the event was poorly managed,-0.4,0.0,Neutral,-0.4,0.6,Negative
+S1075,21,Other,2nd Year,Tech Fest,1,The event was poorly managed.,the event was poorly managed,-0.4,0.0,Neutral,-0.4,0.6,Negative
+S1076,20,Other,4th Year,Workshop,2,"Excellent event, hope to see more like this!",excellent event hope to see more like this,0.75,0.8553,Positive,0.8125,0.75,Positive
+S1077,21,Female,4th Year,Seminar,5,"Amazing event, really enjoyed it!",amazing event really enjoyed it,0.55,0.8122,Positive,0.6125,0.8,Positive
+S1078,23,Male,1st Year,Tech Fest,1,Great organization and fun activities!,great organization and fun activities,0.55,0.8126,Positive,0.5875,0.475,Positive
+S1079,20,Female,4th Year,Seminar,1,"Not worth the time, very boring.",not worth the time very boring,-0.575,-0.5038,Negative,-0.575,0.55,Negative
+S1080,19,Female,4th Year,Workshop,3,"It was okay, could have been better.",it was okay could have been better,0.5,0.5859,Positive,0.5,0.5,Positive
+S1081,20,Male,1st Year,Workshop,2,The event was poorly managed.,the event was poorly managed,-0.4,0.0,Neutral,-0.4,0.6,Negative
+S1082,20,Other,3rd Year,Tech Fest,2,"Informative and useful, I learned a lot.",informative and useful i learned a lot,0.3,0.4404,Positive,0.3,0.0,Positive
+S1083,19,Other,3rd Year,Cultural Night,5,"Informative and useful, I learned a lot.",informative and useful i learned a lot,0.3,0.4404,Positive,0.3,0.0,Positive
+S1084,23,Female,4th Year,Seminar,2,"Amazing event, really enjoyed it!",amazing event really enjoyed it,0.55,0.8122,Positive,0.6125,0.8,Positive
+S1085,20,Female,4th Year,Sports Day,1,"Amazing event, really enjoyed it!",amazing event really enjoyed it,0.55,0.8122,Positive,0.6125,0.8,Positive
+S1086,23,Female,2nd Year,Seminar,5,Great organization and fun activities!,great organization and fun activities,0.55,0.8126,Positive,0.5875,0.475,Positive
+S1087,23,Male,4th Year,Workshop,2,The event was poorly managed.,the event was poorly managed,-0.4,0.0,Neutral,-0.4,0.6,Negative
+S1088,23,Male,2nd Year,Workshop,5,"It was okay, could have been better.",it was okay could have been better,0.5,0.5859,Positive,0.5,0.5,Positive
+S1089,18,Female,3rd Year,Tech Fest,2,"It was okay, could have been better.",it was okay could have been better,0.5,0.5859,Positive,0.5,0.5,Positive
+S1090,22,Other,4th Year,Cultural Night,2,"Excellent event, hope to see more like this!",excellent event hope to see more like this,0.75,0.8553,Positive,0.8125,0.75,Positive
+S1091,23,Other,4th Year,Sports Day,3,"Excellent event, hope to see more like this!",excellent event hope to see more like this,0.75,0.8553,Positive,0.8125,0.75,Positive
+S1092,19,Male,1st Year,Seminar,2,"Not worth the time, very boring.",not worth the time very boring,-0.575,-0.5038,Negative,-0.575,0.55,Negative
+S1093,22,Male,4th Year,Cultural Night,5,"Too crowded, difficult to enjoy.",too crowded difficult to enjoy,-0.04999999999999999,0.1779,Positive,-0.04999999999999999,0.75,Neutral
+S1094,23,Other,3rd Year,Sports Day,1,"Informative and useful, I learned a lot.",informative and useful i learned a lot,0.3,0.4404,Positive,0.3,0.0,Positive
+S1095,19,Male,4th Year,Workshop,3,"Excellent event, hope to see more like this!",excellent event hope to see more like this,0.75,0.8553,Positive,0.8125,0.75,Positive
+S1096,19,Other,2nd Year,Workshop,2,"Not worth the time, very boring.",not worth the time very boring,-0.575,-0.5038,Negative,-0.575,0.55,Negative
+S1097,21,Female,4th Year,Tech Fest,2,"Amazing event, really enjoyed it!",amazing event really enjoyed it,0.55,0.8122,Positive,0.6125,0.8,Positive
+S1098,21,Male,2nd Year,Tech Fest,5,"Informative and useful, I learned a lot.",informative and useful i learned a lot,0.3,0.4404,Positive,0.3,0.0,Positive
+S1099,20,Female,1st Year,Seminar,3,"Excellent event, hope to see more like this!",excellent event hope to see more like this,0.75,0.8553,Positive,0.8125,0.75,Positive
+S1100,23,Male,4th Year,Cultural Night,2,"Loved the performances, very entertaining.",loved the performances very entertaining,0.675,0.796,Positive,0.675,0.855,Positive
+S1101,23,Male,1st Year,Cultural Night,1,Great organization and fun activities!,great organization and fun activities,0.55,0.8126,Positive,0.5875,0.475,Positive
+S1102,22,Female,1st Year,Sports Day,1,"Excellent event, hope to see more like this!",excellent event hope to see more like this,0.75,0.8553,Positive,0.8125,0.75,Positive
+S1103,19,Female,4th Year,Seminar,2,"Informative and useful, I learned a lot.",informative and useful i learned a lot,0.3,0.4404,Positive,0.3,0.0,Positive
+S1104,23,Male,2nd Year,Tech Fest,1,"Not worth the time, very boring.",not worth the time very boring,-0.575,-0.5038,Negative,-0.575,0.55,Negative
+S1105,20,Female,4th Year,Seminar,3,"The food was not good, needs improvement.",the food was not good needs improvement,-0.35,-0.5975,Negative,-0.35,0.6000000000000001,Negative
+S1106,18,Other,2nd Year,Workshop,2,"Amazing event, really enjoyed it!",amazing event really enjoyed it,0.55,0.8122,Positive,0.6125,0.8,Positive
+S1107,19,Other,1st Year,Tech Fest,5,"Informative and useful, I learned a lot.",informative and useful i learned a lot,0.3,0.4404,Positive,0.3,0.0,Positive
+S1108,18,Female,3rd Year,Cultural Night,3,"It was okay, could have been better.",it was okay could have been better,0.5,0.5859,Positive,0.5,0.5,Positive
+S1109,20,Other,4th Year,Tech Fest,1,Great organization and fun activities!,great organization and fun activities,0.55,0.8126,Positive,0.5875,0.475,Positive
+S1110,21,Other,3rd Year,Workshop,2,"It was okay, could have been better.",it was okay could have been better,0.5,0.5859,Positive,0.5,0.5,Positive
+S1111,20,Other,2nd Year,Tech Fest,3,"Not worth the time, very boring.",not worth the time very boring,-0.575,-0.5038,Negative,-0.575,0.55,Negative
+S1112,18,Male,4th Year,Cultural Night,1,"The food was not good, needs improvement.",the food was not good needs improvement,-0.35,-0.5975,Negative,-0.35,0.6000000000000001,Negative
+S1113,19,Other,3rd Year,Workshop,2,"Amazing event, really enjoyed it!",amazing event really enjoyed it,0.55,0.8122,Positive,0.6125,0.8,Positive
+S1114,22,Other,3rd Year,Sports Day,4,"Loved the performances, very entertaining.",loved the performances very entertaining,0.675,0.796,Positive,0.675,0.855,Positive
+S1115,23,Female,4th Year,Seminar,5,"Informative and useful, I learned a lot.",informative and useful i learned a lot,0.3,0.4404,Positive,0.3,0.0,Positive
+S1116,20,Other,3rd Year,Sports Day,1,"Informative and useful, I learned a lot.",informative and useful i learned a lot,0.3,0.4404,Positive,0.3,0.0,Positive
+S1117,19,Male,4th Year,Workshop,1,"Not worth the time, very boring.",not worth the time very boring,-0.575,-0.5038,Negative,-0.575,0.55,Negative
+S1118,23,Male,3rd Year,Workshop,4,"Not worth the time, very boring.",not worth the time very boring,-0.575,-0.5038,Negative,-0.575,0.55,Negative
+S1119,21,Female,1st Year,Workshop,4,"Excellent event, hope to see more like this!",excellent event hope to see more like this,0.75,0.8553,Positive,0.8125,0.75,Positive
+S1120,21,Male,4th Year,Cultural Night,3,"The food was not good, needs improvement.",the food was not good needs improvement,-0.35,-0.5975,Negative,-0.35,0.6000000000000001,Negative
+S1121,23,Male,1st Year,Workshop,5,Great organization and fun activities!,great organization and fun activities,0.55,0.8126,Positive,0.5875,0.475,Positive
+S1122,21,Other,1st Year,Seminar,5,Great organization and fun activities!,great organization and fun activities,0.55,0.8126,Positive,0.5875,0.475,Positive
+S1123,19,Other,3rd Year,Cultural Night,1,The event was poorly managed.,the event was poorly managed,-0.4,0.0,Neutral,-0.4,0.6,Negative
+S1124,20,Male,2nd Year,Workshop,4,"Too crowded, difficult to enjoy.",too crowded difficult to enjoy,-0.04999999999999999,0.1779,Positive,-0.04999999999999999,0.75,Neutral
+S1125,19,Female,1st Year,Cultural Night,5,"Too crowded, difficult to enjoy.",too crowded difficult to enjoy,-0.04999999999999999,0.1779,Positive,-0.04999999999999999,0.75,Neutral
+S1126,19,Female,1st Year,Seminar,2,Great organization and fun activities!,great organization and fun activities,0.55,0.8126,Positive,0.5875,0.475,Positive
+S1127,23,Other,1st Year,Seminar,5,"Excellent event, hope to see more like this!",excellent event hope to see more like this,0.75,0.8553,Positive,0.8125,0.75,Positive
+S1128,22,Male,2nd Year,Cultural Night,1,"Amazing event, really enjoyed it!",amazing event really enjoyed it,0.55,0.8122,Positive,0.6125,0.8,Positive
+S1129,22,Other,2nd Year,Tech Fest,5,Great organization and fun activities!,great organization and fun activities,0.55,0.8126,Positive,0.5875,0.475,Positive
+S1130,20,Female,1st Year,Sports Day,3,"It was okay, could have been better.",it was okay could have been better,0.5,0.5859,Positive,0.5,0.5,Positive
+S1131,23,Male,2nd Year,Workshop,4,Great organization and fun activities!,great organization and fun activities,0.55,0.8126,Positive,0.5875,0.475,Positive
+S1132,22,Other,2nd Year,Sports Day,1,"It was okay, could have been better.",it was okay could have been better,0.5,0.5859,Positive,0.5,0.5,Positive
+S1133,21,Other,2nd Year,Seminar,1,"Not worth the time, very boring.",not worth the time very boring,-0.575,-0.5038,Negative,-0.575,0.55,Negative
+S1134,22,Female,4th Year,Sports Day,4,"Too crowded, difficult to enjoy.",too crowded difficult to enjoy,-0.04999999999999999,0.1779,Positive,-0.04999999999999999,0.75,Neutral
+S1135,21,Other,1st Year,Tech Fest,4,The event was poorly managed.,the event was poorly managed,-0.4,0.0,Neutral,-0.4,0.6,Negative
+S1136,20,Female,2nd Year,Sports Day,4,The event was poorly managed.,the event was poorly managed,-0.4,0.0,Neutral,-0.4,0.6,Negative
+S1137,19,Female,4th Year,Sports Day,1,"Excellent event, hope to see more like this!",excellent event hope to see more like this,0.75,0.8553,Positive,0.8125,0.75,Positive
+S1138,19,Male,3rd Year,Seminar,4,"The food was not good, needs improvement.",the food was not good needs improvement,-0.35,-0.5975,Negative,-0.35,0.6000000000000001,Negative
+S1139,22,Male,3rd Year,Seminar,4,Great organization and fun activities!,great organization and fun activities,0.55,0.8126,Positive,0.5875,0.475,Positive
+S1140,21,Other,2nd Year,Workshop,1,"It was okay, could have been better.",it was okay could have been better,0.5,0.5859,Positive,0.5,0.5,Positive
+S1141,18,Female,1st Year,Cultural Night,1,"Excellent event, hope to see more like this!",excellent event hope to see more like this,0.75,0.8553,Positive,0.8125,0.75,Positive
+S1142,18,Female,2nd Year,Workshop,3,"The food was not good, needs improvement.",the food was not good needs improvement,-0.35,-0.5975,Negative,-0.35,0.6000000000000001,Negative
+S1143,18,Male,3rd Year,Seminar,5,Great organization and fun activities!,great organization and fun activities,0.55,0.8126,Positive,0.5875,0.475,Positive
+S1144,19,Male,1st Year,Workshop,2,The event was poorly managed.,the event was poorly managed,-0.4,0.0,Neutral,-0.4,0.6,Negative
+S1145,23,Female,1st Year,Sports Day,1,"Too crowded, difficult to enjoy.",too crowded difficult to enjoy,-0.04999999999999999,0.1779,Positive,-0.04999999999999999,0.75,Neutral
+S1146,19,Male,3rd Year,Sports Day,2,"The food was not good, needs improvement.",the food was not good needs improvement,-0.35,-0.5975,Negative,-0.35,0.6000000000000001,Negative
+S1147,23,Other,4th Year,Seminar,3,"Excellent event, hope to see more like this!",excellent event hope to see more like this,0.75,0.8553,Positive,0.8125,0.75,Positive
+S1148,21,Female,4th Year,Seminar,5,"It was okay, could have been better.",it was okay could have been better,0.5,0.5859,Positive,0.5,0.5,Positive
+S1149,22,Male,2nd Year,Workshop,5,The event was poorly managed.,the event was poorly managed,-0.4,0.0,Neutral,-0.4,0.6,Negative
+S1150,18,Other,1st Year,Workshop,5,"Not worth the time, very boring.",not worth the time very boring,-0.575,-0.5038,Negative,-0.575,0.55,Negative
+S1151,21,Female,2nd Year,Sports Day,3,"Too crowded, difficult to enjoy.",too crowded difficult to enjoy,-0.04999999999999999,0.1779,Positive,-0.04999999999999999,0.75,Neutral
+S1152,21,Other,1st Year,Cultural Night,4,Great organization and fun activities!,great organization and fun activities,0.55,0.8126,Positive,0.5875,0.475,Positive
+S1153,22,Other,3rd Year,Cultural Night,5,"The food was not good, needs improvement.",the food was not good needs improvement,-0.35,-0.5975,Negative,-0.35,0.6000000000000001,Negative
+S1154,21,Female,1st Year,Seminar,5,"Not worth the time, very boring.",not worth the time very boring,-0.575,-0.5038,Negative,-0.575,0.55,Negative
+S1155,22,Other,1st Year,Workshop,3,"It was okay, could have been better.",it was okay could have been better,0.5,0.5859,Positive,0.5,0.5,Positive
+S1156,20,Male,3rd Year,Cultural Night,4,"Too crowded, difficult to enjoy.",too crowded difficult to enjoy,-0.04999999999999999,0.1779,Positive,-0.04999999999999999,0.75,Neutral
+S1157,22,Male,4th Year,Workshop,5,"Not worth the time, very boring.",not worth the time very boring,-0.575,-0.5038,Negative,-0.575,0.55,Negative
+S1158,18,Male,3rd Year,Tech Fest,5,Great organization and fun activities!,great organization and fun activities,0.55,0.8126,Positive,0.5875,0.475,Positive
+S1159,23,Other,1st Year,Sports Day,4,"Amazing event, really enjoyed it!",amazing event really enjoyed it,0.55,0.8122,Positive,0.6125,0.8,Positive
+S1160,23,Male,3rd Year,Workshop,1,Great organization and fun activities!,great organization and fun activities,0.55,0.8126,Positive,0.5875,0.475,Positive
+S1161,18,Other,1st Year,Workshop,1,The event was poorly managed.,the event was poorly managed,-0.4,0.0,Neutral,-0.4,0.6,Negative
+S1162,23,Male,4th Year,Workshop,5,"The food was not good, needs improvement.",the food was not good needs improvement,-0.35,-0.5975,Negative,-0.35,0.6000000000000001,Negative
+S1163,22,Female,4th Year,Cultural Night,2,"Loved the performances, very entertaining.",loved the performances very entertaining,0.675,0.796,Positive,0.675,0.855,Positive
+S1164,20,Other,1st Year,Workshop,4,Great organization and fun activities!,great organization and fun activities,0.55,0.8126,Positive,0.5875,0.475,Positive
+S1165,23,Other,4th Year,Tech Fest,4,"Informative and useful, I learned a lot.",informative and useful i learned a lot,0.3,0.4404,Positive,0.3,0.0,Positive
+S1166,20,Male,3rd Year,Cultural Night,2,"Loved the performances, very entertaining.",loved the performances very entertaining,0.675,0.796,Positive,0.675,0.855,Positive
+S1167,18,Female,4th Year,Seminar,4,"Loved the performances, very entertaining.",loved the performances very entertaining,0.675,0.796,Positive,0.675,0.855,Positive
+S1168,20,Male,2nd Year,Seminar,3,"The food was not good, needs improvement.",the food was not good needs improvement,-0.35,-0.5975,Negative,-0.35,0.6000000000000001,Negative
+S1169,21,Male,4th Year,Sports Day,4,"The food was not good, needs improvement.",the food was not good needs improvement,-0.35,-0.5975,Negative,-0.35,0.6000000000000001,Negative
+S1170,19,Female,2nd Year,Tech Fest,4,"It was okay, could have been better.",it was okay could have been better,0.5,0.5859,Positive,0.5,0.5,Positive
+S1171,21,Female,3rd Year,Workshop,4,The event was poorly managed.,the event was poorly managed,-0.4,0.0,Neutral,-0.4,0.6,Negative
+S1172,18,Male,4th Year,Tech Fest,1,"It was okay, could have been better.",it was okay could have been better,0.5,0.5859,Positive,0.5,0.5,Positive
+S1173,23,Female,4th Year,Seminar,3,"Not worth the time, very boring.",not worth the time very boring,-0.575,-0.5038,Negative,-0.575,0.55,Negative
+S1174,23,Male,4th Year,Workshop,4,"Not worth the time, very boring.",not worth the time very boring,-0.575,-0.5038,Negative,-0.575,0.55,Negative
+S1175,20,Other,3rd Year,Tech Fest,3,"Not worth the time, very boring.",not worth the time very boring,-0.575,-0.5038,Negative,-0.575,0.55,Negative
+S1176,22,Male,3rd Year,Cultural Night,3,"Amazing event, really enjoyed it!",amazing event really enjoyed it,0.55,0.8122,Positive,0.6125,0.8,Positive
+S1177,19,Other,2nd Year,Workshop,3,Great organization and fun activities!,great organization and fun activities,0.55,0.8126,Positive,0.5875,0.475,Positive
+S1178,22,Male,1st Year,Cultural Night,2,"Excellent event, hope to see more like this!",excellent event hope to see more like this,0.75,0.8553,Positive,0.8125,0.75,Positive
+S1179,18,Female,3rd Year,Tech Fest,4,"The food was not good, needs improvement.",the food was not good needs improvement,-0.35,-0.5975,Negative,-0.35,0.6000000000000001,Negative
+S1180,23,Other,4th Year,Workshop,1,"Excellent event, hope to see more like this!",excellent event hope to see more like this,0.75,0.8553,Positive,0.8125,0.75,Positive
+S1181,20,Female,2nd Year,Sports Day,1,"Too crowded, difficult to enjoy.",too crowded difficult to enjoy,-0.04999999999999999,0.1779,Positive,-0.04999999999999999,0.75,Neutral
+S1182,23,Other,4th Year,Sports Day,1,"The food was not good, needs improvement.",the food was not good needs improvement,-0.35,-0.5975,Negative,-0.35,0.6000000000000001,Negative
+S1183,22,Other,4th Year,Seminar,1,"The food was not good, needs improvement.",the food was not good needs improvement,-0.35,-0.5975,Negative,-0.35,0.6000000000000001,Negative
+S1184,22,Male,3rd Year,Workshop,4,"The food was not good, needs improvement.",the food was not good needs improvement,-0.35,-0.5975,Negative,-0.35,0.6000000000000001,Negative
+S1185,19,Male,1st Year,Tech Fest,1,"Excellent event, hope to see more like this!",excellent event hope to see more like this,0.75,0.8553,Positive,0.8125,0.75,Positive
+S1186,19,Male,4th Year,Sports Day,3,"The food was not good, needs improvement.",the food was not good needs improvement,-0.35,-0.5975,Negative,-0.35,0.6000000000000001,Negative
+S1187,20,Male,3rd Year,Seminar,2,"Informative and useful, I learned a lot.",informative and useful i learned a lot,0.3,0.4404,Positive,0.3,0.0,Positive
+S1188,19,Female,2nd Year,Workshop,5,"Amazing event, really enjoyed it!",amazing event really enjoyed it,0.55,0.8122,Positive,0.6125,0.8,Positive
+S1189,22,Male,4th Year,Sports Day,1,"Too crowded, difficult to enjoy.",too crowded difficult to enjoy,-0.04999999999999999,0.1779,Positive,-0.04999999999999999,0.75,Neutral
+S1190,22,Male,2nd Year,Workshop,5,Great organization and fun activities!,great organization and fun activities,0.55,0.8126,Positive,0.5875,0.475,Positive
+S1191,18,Other,3rd Year,Seminar,5,"Loved the performances, very entertaining.",loved the performances very entertaining,0.675,0.796,Positive,0.675,0.855,Positive
+S1192,22,Female,3rd Year,Tech Fest,5,"Informative and useful, I learned a lot.",informative and useful i learned a lot,0.3,0.4404,Positive,0.3,0.0,Positive
+S1193,20,Female,3rd Year,Seminar,3,"Excellent event, hope to see more like this!",excellent event hope to see more like this,0.75,0.8553,Positive,0.8125,0.75,Positive
+S1194,21,Other,3rd Year,Tech Fest,1,The event was poorly managed.,the event was poorly managed,-0.4,0.0,Neutral,-0.4,0.6,Negative
+S1195,18,Other,3rd Year,Cultural Night,4,"Informative and useful, I learned a lot.",informative and useful i learned a lot,0.3,0.4404,Positive,0.3,0.0,Positive
+S1196,18,Male,1st Year,Sports Day,3,"Loved the performances, very entertaining.",loved the performances very entertaining,0.675,0.796,Positive,0.675,0.855,Positive
+S1197,20,Female,2nd Year,Cultural Night,4,"Not worth the time, very boring.",not worth the time very boring,-0.575,-0.5038,Negative,-0.575,0.55,Negative
+S1198,20,Male,1st Year,Tech Fest,1,"Loved the performances, very entertaining.",loved the performances very entertaining,0.675,0.796,Positive,0.675,0.855,Positive
+S1199,19,Other,2nd Year,Workshop,3,The event was poorly managed.,the event was poorly managed,-0.4,0.0,Neutral,-0.4,0.6,Negative
+S1200,18,Male,4th Year,Tech Fest,5,"Informative and useful, I learned a lot.",informative and useful i learned a lot,0.3,0.4404,Positive,0.3,0.0,Positive
+S1201,19,Female,4th Year,Tech Fest,3,"Loved the performances, very entertaining.",loved the performances very entertaining,0.675,0.796,Positive,0.675,0.855,Positive
+S1202,22,Male,2nd Year,Workshop,3,Great organization and fun activities!,great organization and fun activities,0.55,0.8126,Positive,0.5875,0.475,Positive
+S1203,18,Female,4th Year,Cultural Night,1,"Excellent event, hope to see more like this!",excellent event hope to see more like this,0.75,0.8553,Positive,0.8125,0.75,Positive
+S1204,18,Male,4th Year,Sports Day,5,"Informative and useful, I learned a lot.",informative and useful i learned a lot,0.3,0.4404,Positive,0.3,0.0,Positive
+S1205,23,Male,4th Year,Tech Fest,5,"Informative and useful, I learned a lot.",informative and useful i learned a lot,0.3,0.4404,Positive,0.3,0.0,Positive
+S1206,21,Female,1st Year,Tech Fest,2,The event was poorly managed.,the event was poorly managed,-0.4,0.0,Neutral,-0.4,0.6,Negative
+S1207,18,Female,1st Year,Sports Day,2,"Too crowded, difficult to enjoy.",too crowded difficult to enjoy,-0.04999999999999999,0.1779,Positive,-0.04999999999999999,0.75,Neutral
+S1208,22,Female,3rd Year,Tech Fest,4,"Not worth the time, very boring.",not worth the time very boring,-0.575,-0.5038,Negative,-0.575,0.55,Negative
+S1209,19,Male,2nd Year,Sports Day,2,"Not worth the time, very boring.",not worth the time very boring,-0.575,-0.5038,Negative,-0.575,0.55,Negative
+S1210,19,Male,4th Year,Sports Day,1,"Too crowded, difficult to enjoy.",too crowded difficult to enjoy,-0.04999999999999999,0.1779,Positive,-0.04999999999999999,0.75,Neutral
+S1211,23,Male,2nd Year,Sports Day,3,"The food was not good, needs improvement.",the food was not good needs improvement,-0.35,-0.5975,Negative,-0.35,0.6000000000000001,Negative
+S1212,21,Other,3rd Year,Workshop,5,"Loved the performances, very entertaining.",loved the performances very entertaining,0.675,0.796,Positive,0.675,0.855,Positive
+S1213,22,Male,3rd Year,Cultural Night,3,"Excellent event, hope to see more like this!",excellent event hope to see more like this,0.75,0.8553,Positive,0.8125,0.75,Positive
+S1214,19,Female,4th Year,Cultural Night,1,"The food was not good, needs improvement.",the food was not good needs improvement,-0.35,-0.5975,Negative,-0.35,0.6000000000000001,Negative
+S1215,20,Female,3rd Year,Seminar,3,The event was poorly managed.,the event was poorly managed,-0.4,0.0,Neutral,-0.4,0.6,Negative
+S1216,22,Female,4th Year,Workshop,5,"Amazing event, really enjoyed it!",amazing event really enjoyed it,0.55,0.8122,Positive,0.6125,0.8,Positive
+S1217,22,Male,3rd Year,Seminar,2,"Informative and useful, I learned a lot.",informative and useful i learned a lot,0.3,0.4404,Positive,0.3,0.0,Positive
+S1218,21,Female,3rd Year,Cultural Night,4,Great organization and fun activities!,great organization and fun activities,0.55,0.8126,Positive,0.5875,0.475,Positive
+S1219,19,Female,4th Year,Cultural Night,5,"Not worth the time, very boring.",not worth the time very boring,-0.575,-0.5038,Negative,-0.575,0.55,Negative
+S1220,22,Other,3rd Year,Cultural Night,5,"It was okay, could have been better.",it was okay could have been better,0.5,0.5859,Positive,0.5,0.5,Positive
+S1221,23,Other,3rd Year,Tech Fest,5,"Not worth the time, very boring.",not worth the time very boring,-0.575,-0.5038,Negative,-0.575,0.55,Negative
+S1222,23,Female,3rd Year,Seminar,5,"It was okay, could have been better.",it was okay could have been better,0.5,0.5859,Positive,0.5,0.5,Positive
+S1223,19,Other,2nd Year,Workshop,1,The event was poorly managed.,the event was poorly managed,-0.4,0.0,Neutral,-0.4,0.6,Negative
+S1224,23,Other,1st Year,Seminar,5,"It was okay, could have been better.",it was okay could have been better,0.5,0.5859,Positive,0.5,0.5,Positive
+S1225,20,Female,2nd Year,Cultural Night,3,"The food was not good, needs improvement.",the food was not good needs improvement,-0.35,-0.5975,Negative,-0.35,0.6000000000000001,Negative
+S1226,21,Male,3rd Year,Workshop,1,The event was poorly managed.,the event was poorly managed,-0.4,0.0,Neutral,-0.4,0.6,Negative
+S1227,23,Male,1st Year,Seminar,2,"Informative and useful, I learned a lot.",informative and useful i learned a lot,0.3,0.4404,Positive,0.3,0.0,Positive
+S1228,23,Female,2nd Year,Cultural Night,3,"Not worth the time, very boring.",not worth the time very boring,-0.575,-0.5038,Negative,-0.575,0.55,Negative
+S1229,20,Male,2nd Year,Cultural Night,3,"The food was not good, needs improvement.",the food was not good needs improvement,-0.35,-0.5975,Negative,-0.35,0.6000000000000001,Negative
+S1230,21,Other,2nd Year,Workshop,3,"Too crowded, difficult to enjoy.",too crowded difficult to enjoy,-0.04999999999999999,0.1779,Positive,-0.04999999999999999,0.75,Neutral
+S1231,22,Female,4th Year,Sports Day,3,"It was okay, could have been better.",it was okay could have been better,0.5,0.5859,Positive,0.5,0.5,Positive
+S1232,21,Male,3rd Year,Workshop,1,"Loved the performances, very entertaining.",loved the performances very entertaining,0.675,0.796,Positive,0.675,0.855,Positive
+S1233,18,Male,3rd Year,Sports Day,2,"Informative and useful, I learned a lot.",informative and useful i learned a lot,0.3,0.4404,Positive,0.3,0.0,Positive
+S1234,19,Other,1st Year,Tech Fest,2,Great organization and fun activities!,great organization and fun activities,0.55,0.8126,Positive,0.5875,0.475,Positive
+S1235,19,Female,2nd Year,Workshop,5,"Amazing event, really enjoyed it!",amazing event really enjoyed it,0.55,0.8122,Positive,0.6125,0.8,Positive
+S1236,18,Female,3rd Year,Sports Day,4,"Too crowded, difficult to enjoy.",too crowded difficult to enjoy,-0.04999999999999999,0.1779,Positive,-0.04999999999999999,0.75,Neutral
+S1237,20,Other,2nd Year,Seminar,1,"Amazing event, really enjoyed it!",amazing event really enjoyed it,0.55,0.8122,Positive,0.6125,0.8,Positive
+S1238,18,Female,3rd Year,Cultural Night,2,"Too crowded, difficult to enjoy.",too crowded difficult to enjoy,-0.04999999999999999,0.1779,Positive,-0.04999999999999999,0.75,Neutral
+S1239,22,Female,2nd Year,Tech Fest,1,"Not worth the time, very boring.",not worth the time very boring,-0.575,-0.5038,Negative,-0.575,0.55,Negative
+S1240,22,Other,3rd Year,Workshop,1,Great organization and fun activities!,great organization and fun activities,0.55,0.8126,Positive,0.5875,0.475,Positive
+S1241,19,Other,1st Year,Sports Day,5,"Loved the performances, very entertaining.",loved the performances very entertaining,0.675,0.796,Positive,0.675,0.855,Positive
+S1242,22,Male,2nd Year,Seminar,2,"Too crowded, difficult to enjoy.",too crowded difficult to enjoy,-0.04999999999999999,0.1779,Positive,-0.04999999999999999,0.75,Neutral
+S1243,19,Female,3rd Year,Sports Day,4,"It was okay, could have been better.",it was okay could have been better,0.5,0.5859,Positive,0.5,0.5,Positive
+S1244,18,Other,1st Year,Workshop,4,Great organization and fun activities!,great organization and fun activities,0.55,0.8126,Positive,0.5875,0.475,Positive
+S1245,18,Male,1st Year,Sports Day,4,"Loved the performances, very entertaining.",loved the performances very entertaining,0.675,0.796,Positive,0.675,0.855,Positive
+S1246,23,Female,3rd Year,Workshop,3,"Amazing event, really enjoyed it!",amazing event really enjoyed it,0.55,0.8122,Positive,0.6125,0.8,Positive
+S1247,23,Male,2nd Year,Sports Day,2,Great organization and fun activities!,great organization and fun activities,0.55,0.8126,Positive,0.5875,0.475,Positive
+S1248,18,Other,4th Year,Cultural Night,3,"It was okay, could have been better.",it was okay could have been better,0.5,0.5859,Positive,0.5,0.5,Positive
+S1249,19,Female,1st Year,Workshop,3,Great organization and fun activities!,great organization and fun activities,0.55,0.8126,Positive,0.5875,0.475,Positive
+S1250,18,Male,1st Year,Workshop,3,"The food was not good, needs improvement.",the food was not good needs improvement,-0.35,-0.5975,Negative,-0.35,0.6000000000000001,Negative
+S1251,18,Other,3rd Year,Tech Fest,5,"The food was not good, needs improvement.",the food was not good needs improvement,-0.35,-0.5975,Negative,-0.35,0.6000000000000001,Negative
+S1252,20,Other,4th Year,Cultural Night,5,"Amazing event, really enjoyed it!",amazing event really enjoyed it,0.55,0.8122,Positive,0.6125,0.8,Positive
+S1253,18,Other,4th Year,Workshop,1,The event was poorly managed.,the event was poorly managed,-0.4,0.0,Neutral,-0.4,0.6,Negative
+S1254,22,Other,4th Year,Seminar,1,"Informative and useful, I learned a lot.",informative and useful i learned a lot,0.3,0.4404,Positive,0.3,0.0,Positive
+S1255,19,Other,3rd Year,Sports Day,2,"The food was not good, needs improvement.",the food was not good needs improvement,-0.35,-0.5975,Negative,-0.35,0.6000000000000001,Negative
+S1256,20,Other,2nd Year,Seminar,2,"Informative and useful, I learned a lot.",informative and useful i learned a lot,0.3,0.4404,Positive,0.3,0.0,Positive
+S1257,23,Other,1st Year,Sports Day,5,"Informative and useful, I learned a lot.",informative and useful i learned a lot,0.3,0.4404,Positive,0.3,0.0,Positive
+S1258,21,Male,3rd Year,Sports Day,1,"Excellent event, hope to see more like this!",excellent event hope to see more like this,0.75,0.8553,Positive,0.8125,0.75,Positive
+S1259,19,Female,4th Year,Tech Fest,1,"Amazing event, really enjoyed it!",amazing event really enjoyed it,0.55,0.8122,Positive,0.6125,0.8,Positive
+S1260,22,Female,1st Year,Workshop,3,"It was okay, could have been better.",it was okay could have been better,0.5,0.5859,Positive,0.5,0.5,Positive
+S1261,19,Male,1st Year,Sports Day,4,"Amazing event, really enjoyed it!",amazing event really enjoyed it,0.55,0.8122,Positive,0.6125,0.8,Positive
+S1262,23,Other,4th Year,Tech Fest,4,The event was poorly managed.,the event was poorly managed,-0.4,0.0,Neutral,-0.4,0.6,Negative
+S1263,22,Female,4th Year,Seminar,4,"Loved the performances, very entertaining.",loved the performances very entertaining,0.675,0.796,Positive,0.675,0.855,Positive
+S1264,22,Other,1st Year,Tech Fest,5,"The food was not good, needs improvement.",the food was not good needs improvement,-0.35,-0.5975,Negative,-0.35,0.6000000000000001,Negative
+S1265,21,Female,1st Year,Seminar,4,"Not worth the time, very boring.",not worth the time very boring,-0.575,-0.5038,Negative,-0.575,0.55,Negative
+S1266,19,Other,2nd Year,Workshop,4,"Excellent event, hope to see more like this!",excellent event hope to see more like this,0.75,0.8553,Positive,0.8125,0.75,Positive
+S1267,21,Male,2nd Year,Sports Day,3,"Not worth the time, very boring.",not worth the time very boring,-0.575,-0.5038,Negative,-0.575,0.55,Negative
+S1268,21,Other,3rd Year,Cultural Night,2,"Too crowded, difficult to enjoy.",too crowded difficult to enjoy,-0.04999999999999999,0.1779,Positive,-0.04999999999999999,0.75,Neutral
+S1269,19,Female,1st Year,Seminar,5,"It was okay, could have been better.",it was okay could have been better,0.5,0.5859,Positive,0.5,0.5,Positive
+S1270,18,Other,2nd Year,Sports Day,1,The event was poorly managed.,the event was poorly managed,-0.4,0.0,Neutral,-0.4,0.6,Negative
+S1271,18,Female,1st Year,Cultural Night,3,"Loved the performances, very entertaining.",loved the performances very entertaining,0.675,0.796,Positive,0.675,0.855,Positive
+S1272,23,Other,4th Year,Cultural Night,4,The event was poorly managed.,the event was poorly managed,-0.4,0.0,Neutral,-0.4,0.6,Negative
+S1273,21,Female,2nd Year,Seminar,1,"It was okay, could have been better.",it was okay could have been better,0.5,0.5859,Positive,0.5,0.5,Positive
+S1274,20,Female,4th Year,Sports Day,3,"Amazing event, really enjoyed it!",amazing event really enjoyed it,0.55,0.8122,Positive,0.6125,0.8,Positive
+S1275,21,Female,4th Year,Cultural Night,5,"Loved the performances, very entertaining.",loved the performances very entertaining,0.675,0.796,Positive,0.675,0.855,Positive
+S1276,21,Other,4th Year,Tech Fest,4,"Too crowded, difficult to enjoy.",too crowded difficult to enjoy,-0.04999999999999999,0.1779,Positive,-0.04999999999999999,0.75,Neutral
+S1277,21,Female,3rd Year,Tech Fest,5,"Excellent event, hope to see more like this!",excellent event hope to see more like this,0.75,0.8553,Positive,0.8125,0.75,Positive
+S1278,23,Other,4th Year,Sports Day,3,"Informative and useful, I learned a lot.",informative and useful i learned a lot,0.3,0.4404,Positive,0.3,0.0,Positive
+S1279,18,Male,3rd Year,Workshop,1,"It was okay, could have been better.",it was okay could have been better,0.5,0.5859,Positive,0.5,0.5,Positive
+S1280,23,Male,1st Year,Tech Fest,2,"It was okay, could have been better.",it was okay could have been better,0.5,0.5859,Positive,0.5,0.5,Positive
+S1281,23,Female,1st Year,Seminar,4,"Informative and useful, I learned a lot.",informative and useful i learned a lot,0.3,0.4404,Positive,0.3,0.0,Positive
+S1282,23,Other,2nd Year,Sports Day,5,"Excellent event, hope to see more like this!",excellent event hope to see more like this,0.75,0.8553,Positive,0.8125,0.75,Positive
+S1283,18,Female,2nd Year,Cultural Night,1,"Not worth the time, very boring.",not worth the time very boring,-0.575,-0.5038,Negative,-0.575,0.55,Negative
+S1284,18,Other,3rd Year,Tech Fest,1,"Amazing event, really enjoyed it!",amazing event really enjoyed it,0.55,0.8122,Positive,0.6125,0.8,Positive
+S1285,21,Other,1st Year,Sports Day,2,"Not worth the time, very boring.",not worth the time very boring,-0.575,-0.5038,Negative,-0.575,0.55,Negative
+S1286,23,Male,2nd Year,Sports Day,3,"Excellent event, hope to see more like this!",excellent event hope to see more like this,0.75,0.8553,Positive,0.8125,0.75,Positive
+S1287,20,Other,2nd Year,Workshop,2,"Loved the performances, very entertaining.",loved the performances very entertaining,0.675,0.796,Positive,0.675,0.855,Positive
+S1288,18,Other,2nd Year,Cultural Night,2,"The food was not good, needs improvement.",the food was not good needs improvement,-0.35,-0.5975,Negative,-0.35,0.6000000000000001,Negative
+S1289,19,Female,1st Year,Cultural Night,3,The event was poorly managed.,the event was poorly managed,-0.4,0.0,Neutral,-0.4,0.6,Negative
+S1290,19,Female,2nd Year,Cultural Night,3,"Too crowded, difficult to enjoy.",too crowded difficult to enjoy,-0.04999999999999999,0.1779,Positive,-0.04999999999999999,0.75,Neutral
+S1291,19,Other,1st Year,Seminar,3,"Amazing event, really enjoyed it!",amazing event really enjoyed it,0.55,0.8122,Positive,0.6125,0.8,Positive
+S1292,22,Male,4th Year,Sports Day,1,"Excellent event, hope to see more like this!",excellent event hope to see more like this,0.75,0.8553,Positive,0.8125,0.75,Positive
+S1293,21,Female,4th Year,Seminar,1,Great organization and fun activities!,great organization and fun activities,0.55,0.8126,Positive,0.5875,0.475,Positive
+S1294,19,Female,4th Year,Seminar,4,"Loved the performances, very entertaining.",loved the performances very entertaining,0.675,0.796,Positive,0.675,0.855,Positive
+S1295,21,Male,3rd Year,Sports Day,4,"Excellent event, hope to see more like this!",excellent event hope to see more like this,0.75,0.8553,Positive,0.8125,0.75,Positive
+S1296,19,Female,1st Year,Cultural Night,2,"Too crowded, difficult to enjoy.",too crowded difficult to enjoy,-0.04999999999999999,0.1779,Positive,-0.04999999999999999,0.75,Neutral
+S1297,20,Other,2nd Year,Sports Day,2,"The food was not good, needs improvement.",the food was not good needs improvement,-0.35,-0.5975,Negative,-0.35,0.6000000000000001,Negative
+S1298,21,Other,3rd Year,Workshop,4,"It was okay, could have been better.",it was okay could have been better,0.5,0.5859,Positive,0.5,0.5,Positive
+S1299,19,Other,3rd Year,Sports Day,5,"Not worth the time, very boring.",not worth the time very boring,-0.575,-0.5038,Negative,-0.575,0.55,Negative

@@ -1,0 +1,6 @@
+event_name,rating,feedback_text,vader_compound
+Sports Day,2,"The food was not good, needs improvement.",-0.5975
+Seminar,1,"The food was not good, needs improvement.",-0.5975
+Workshop,4,"The food was not good, needs improvement.",-0.5975
+Sports Day,3,"The food was not good, needs improvement.",-0.5975
+Tech Fest,5,"The food was not good, needs improvement.",-0.5975
